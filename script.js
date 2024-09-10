@@ -36,4 +36,11 @@ window.onscroll = () => {
     let header = document.querySelector('header');
 
     header.classList.toggle('sticky', window.scrollY > 100);
+
+    // Remova o ícone de alternância e a barra de navegação ao clicar nos links da barra de navegação (rolagem);
+   
+    menuIcon.classList.remove('bx-x');
+    navbar.classList.remove('active');
+
+
 }
