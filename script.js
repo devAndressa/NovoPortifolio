@@ -5,8 +5,8 @@ let navbar = document.querySelector('.navbar');
 menuIcon.onclick = () => {
     menuIcon.classList.toggle('bx-x');
     navbar.classList.toggle('active');
-}
 
+}
 //scroll sections
 
 let sections = document.querySelectorAll('section');
@@ -36,7 +36,6 @@ window.onscroll = () => {
     header.classList.toggle('sticky', window.scrollY > 100);
 
     // Remova o ícone de alternância e a barra de navegação ao clicar nos links da barra de navegação (rolagem);
-
     menuIcon.classList.remove('bx-x');
     navbar.classList.remove('active');
 }
