@@ -45,7 +45,7 @@
 <!-- EXPLICA O MOTIVO DO PROJETO -->
 Esse é um repositório onde contém um portifólio para fim de teste.
 
-O desafio proposto para este projeto com o nome de Portifólio 2024 foi para o treinamento e maior desenvolvimento de tecnicas sobre html e css. Neste treinamento frontend, o objetivo é por em prática os conhecimentos adquiridos atrav´s de 
+O desafio proposto para este projeto com o nome de Portifólio 2024 foi para o treinamento e maior desenvolvimento de tecnicas sobre html e css. Neste treinamento frontend, o objetivo é por em prática os conhecimentos adquiridos através de 
 cursos e prática. Utilzei um pouco de javascript para melhorar a performace do portifólio. 
 
 <!-- LINHA DE DIVISÃO: -->
